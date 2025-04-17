@@ -23,7 +23,8 @@ Overcoming obstacles:
 4) I tried using fixed display for header, but for some reason the header then overlapped the navigation box, this issue was also not resolved after multiple tries and AI help, so I dropped the plan and any which ways the resume didn’t need any position feature mandatorily.
 5) Similarly for cards, I didn’t find any use of cards in a resume, the only linking I wanted to do was done through anchor tag of the LinkedIn page. </p>
 
+<button align="center" color="blue" rounded>
 <a href="resume.html"> Resume </a>
-
+</button>
 </body>
 </html>
