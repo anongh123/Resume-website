@@ -1,7 +1,3 @@
-<!Doctype HTML>
-<head><title></title></head>
-<body>
-<p>
 Overview:
 I chose the font from Google fonts. It was kept simple throughout for a professional look and capitalised in the heading (name) and bold wherever necessary accordingly
 The colour scheme was monochromatic using different shades of blue and was kept consistent throughout,  in accordance with the logo of LinkedIn which gave a very professional look, which already had its corporate connotations and was regarded as a colour of trust & reliability in website design mentioned in the web design course module 2. Such simple font and colour scheme was to adhere to the standards of resume.
@@ -23,8 +19,4 @@ Overcoming obstacles:
 4) I tried using fixed display for header, but for some reason the header then overlapped the navigation box, this issue was also not resolved after multiple tries and AI help, so I dropped the plan and any which ways the resume didn’t need any position feature mandatorily.
 5) Similarly for cards, I didn’t find any use of cards in a resume, the only linking I wanted to do was done through anchor tag of the LinkedIn page. </p>
 
-
 <a href="resume.html"> Resume </a>
-
-</body>
-</html>
