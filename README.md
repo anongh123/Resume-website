@@ -8,7 +8,7 @@ The alignment was mostly centered and the spacing was kept evenly in footer and 
 
 Key features implemented:
 1) Responsive design using media queries, enabling consistency across devices with different aspect ratios of website.
-2) A clickable LinkedIn button for redirection, with LinkedIn logo, for seamless experience. Got the logo css link from bootstrap icon website, which I copy pasted in the anchor tag.
+2) A clickable LinkedIn button, with LinkedIn logo, for redirection to LinkedIn page on another tab, for seamless experience. Got the logo css link from bootstrap icon website, which I copy pasted in the anchor tag.
 3) Hover effects for dynamic interactivity and visual appeal, over the headings of navigation bar, which inverted the blue and white colours when cursor was bought over it.
 4) I linked headings (in the form of a button) from navigation bar to the respective Heading on sidebar, this provided more interactivity to the website and easy navigation.
 
